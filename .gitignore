@@ -1,0 +1,21 @@
+Thumbs.db
+
+# Eclipse
+.project
+.metadata
+bin/**
+.classpath
+.settings/
+
+# Intellij
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# project
+node_modules/
+typings/
+app/*.map
+app/*.js
+
